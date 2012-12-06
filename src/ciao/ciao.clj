@@ -1,7 +1,7 @@
 (ns ciao.ciao
   (:refer-clojure :exclude [==])
   (:use clojure.core.logic)
-  (:require [midje.sweet :as m]))
+  )
 
 ;; Ch1: Verbs
 
